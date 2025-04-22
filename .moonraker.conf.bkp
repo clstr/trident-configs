@@ -43,8 +43,7 @@ origin = https://github.com/mainsail-crew/moonraker-timelapse.git
 managed_services = klipper moonraker
 
 [announcements]
-subscriptions = 
-	mainsail
+subscriptions = mainsail
 
 [update_manager]
 refresh_interval = 168
